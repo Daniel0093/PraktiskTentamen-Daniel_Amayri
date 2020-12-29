@@ -1,0 +1,27 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+section {
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.2);
+  max-width: 18rem;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+section {
+  margin: 20px auto;
+  width: 1170px;
+  overflow: hidden;
+  float: left;
+}
